@@ -14,3 +14,5 @@
  ## face_recognition
  > face_recognition 是一个python的开源人脸识别库  号称是识别率百分之99  （虽然我没感觉到）网上资料非常多，而且用这个做实时性的人脸识别效率还可以（虽然初始化慢...）     
  博客https://blog.csdn.net/Nirvana_6174/article/details/83116431
+ 
+ > Added by ZC
